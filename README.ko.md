@@ -24,7 +24,7 @@ Doumi(도우미)는 AI 서비스를 활용해 운영 중인 웹서비스와 API�
 
 ## 얼리 액세스
 
-출시 전 시연과 상세 내용을 받아 보시려면 [hanvietech.com의 문의 양식](https://hanvietech.com/#contact)에서 얼리 액세스를 선택해 남겨 주세요. 이메일 [ceo@hanvietech.com](mailto:ceo@hanvietech.com)으로도 받습니다.
+출시 전 시연과 상세 내용을 받아 보시려면 [hanvietech.com의 문의 양식](https://hanvietech.com/#contact)에서 Jikimi·Doumi 얼리 액세스를 선택해 남겨 주세요. 이메일 [ceo@hanvietech.com](mailto:ceo@hanvietech.com)으로도 받습니다.
 
 자매 제품: [Jikimi](https://github.com/hanvietech/jikimi-docs) — AI 코드보안 에이전트
 

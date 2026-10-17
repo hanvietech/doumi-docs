@@ -24,7 +24,7 @@ Doumi is an AI web vulnerability testing agent, a security agent powered by AI s
 
 ## Early access
 
-To receive a pre-release demo and details, choose early access in the [contact form on hanvietech.com](https://hanvietech.com/en/#contact), or email [ceo@hanvietech.com](mailto:ceo@hanvietech.com).
+To receive a pre-release demo and details, choose Jikimi · Doumi early access in the [contact form on hanvietech.com](https://hanvietech.com/en/#contact), or email [ceo@hanvietech.com](mailto:ceo@hanvietech.com).
 
 Sister product: [Jikimi](https://github.com/hanvietech/jikimi-docs) — AI code security agent
 
